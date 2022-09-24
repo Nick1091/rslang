@@ -3,6 +3,8 @@
 This is an application for learning English.
 Learning English will be much easier, because you don't have to force yourself learning words - just memorise them by playing!
 
+### [Deploy](https://nick1091.github.io/rslang/)
+
 ##### Features
 
 - Electronic textbook: Over 3000 words and six sections with increasing difficulty. Study, watch the translation, play audio examples.
